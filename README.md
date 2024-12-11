@@ -1,11 +1,11 @@
-#AI Chatbot: Conversational AI Assistant
+AI Chatbot: Conversational AI Assistant
 
 A powerful conversational AI chatbot that understands and responds to natural language queries using cutting-edge Natural Language Processing (NLP) techniques. Built with Microsoft's DialoGPT model, it delivers a seamless, engaging, and intelligent chat experience.
 
 
 
 
-##🚀 Features
+🚀 Features
 
 Natural Language Understanding and Generation: Converses naturally and coherently.
 
@@ -23,7 +23,7 @@ Customizable Model: Choose from DialoGPT-small, medium, or large for performance
 
 
 
-##🛠️ Tech Stack
+🛠️ Tech Stack
 
 Backend: Python with FastAPI
 
@@ -37,7 +37,7 @@ Dependencies: PyTorch, Transformers, FastAPI, Uvicorn
 
 
 
-##📝 Prerequisites
+📝 Prerequisites
 
 Before starting, ensure you have:
 
